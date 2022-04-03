@@ -1,0 +1,27 @@
+{
+  "name": "manifesuto",
+  "version": "1.0.0",
+  "description": "UI Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tandukrusa/manifesuto.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "tandukrusa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tandukrusa/manifesuto/issues"
+  },
+  "homepage": "https://github.com/tandukrusa/manifesuto#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.43",
+    "react": "^18.0.0",
+    "typescript": "^4.6.3"
+  }
+}
