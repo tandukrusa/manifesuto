@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/tandukrusa/manifesuto#readme",
   "devDependencies": {
-    "@types/react": "^17.0.43",
-    "react": "^18.0.0",
-    "typescript": "^4.6.3"
+    "@types/react": "^18.0.21",
+    "react": "^18.2.0",
+    "typescript": "^4.8.4"
   }
 }
